@@ -1,9 +1,12 @@
-|Nama |_Muhamad Jati Wasesa_|
-| :- | :- |
-|**Nim** |_312210481_|
-|**Kelas** |_TI.22.A.5_|
-|**Mata Kuliah**|_Pemgraman Web 2_|
-|**Tugas** |_Praktikum 7_|
+Nama : Nurkholik Safrudin
+
+**Nim** : 312210507
+
+**Kelas** :TI.22.A.5
+
+**Mata Kuliah** :Pemgraman Web 2
+
+**Tugas** : Praktikum 7
 
 ![gambar](README_img/Codeigniter.png)
 ![gambar](README_img/postman_logo.png)
